@@ -101,7 +101,7 @@ const Tabs = ({ categories }: IPropType) => {
                     onChange={(e) => handledebouncsearch(e.target.value)}
                     type="text"
                     placeholder="Search"
-                    className="outline-none px-2 py-1 ml-1 w-[81vw] md:w-[25vw]  bg-gray-900 text-white"
+                    className="outline-none px-2 py-1 ml-1 w-[78vw] md:w-[25vw]  bg-gray-900 text-white"
                 />
             </div>
             
